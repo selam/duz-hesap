@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Düz hesap",
     "version": "1.0",
-    "description": "n11 ve trendyol arama sayfalarındaki fiyatları otomatik olarak yuvarlayarak daha düzgün ve okunabilir hale getirir. Örneğin, \"3.99\" gibi fiyatları \"4.00\" olarak değiştirir. Ayrıca, kullanıcılar eklenti ayarları üzerinden fiyatların sonundaki \"4\" ve \"9\" sayıları ile biten fiyatlara otomatik olarak \"+1\" eklemeyi tercih edebilir. Bu, alışverişlerde daha kolay fiyat karşılaştırması yapmanızı sağlar.",
+    "description": "n11 ve trendyol arama sayfalarındaki \"3.99\" gibi fiyatları \"4.00\" olarak değiştirir.",
     "icons": {
       "48": "icons/price-tag.svg",
       "128": "icons/price-tag.svg"
